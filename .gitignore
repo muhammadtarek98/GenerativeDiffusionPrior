@@ -50,3 +50,13 @@ model-card.md
 # scripts/sample_color_v1.py
 logs*
 # scripts/sample_x0_enhancement_HDR.py
+/guided_diffusion.egg-info/dependency_links.txt
+/guided_diffusion.egg-info/PKG-INFO
+/guided_diffusion.egg-info/requires.txt
+/guided_diffusion.egg-info/SOURCES.txt
+/guided_diffusion.egg-info/top_level.txt
+/guided_diffusion.egg-info/dependency_links.txt
+/guided_diffusion.egg-info/PKG-INFO
+/guided_diffusion.egg-info/requires.txt
+/guided_diffusion.egg-info/SOURCES.txt
+/guided_diffusion.egg-info/top_level.txt
